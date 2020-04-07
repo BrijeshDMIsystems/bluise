@@ -1,10 +1,10 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "welcomeText": "# Yo, I'm go2core - An AI driven Competency-based Teaching-Learning Platform.\n\nIn a proficiency system, failure or poor performance may be part of the student’s learning curve, but it is not an outcome.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "An AI driven Competency-based Teaching-Learning Platform",
   "seoMetaImage": ""
 }
